@@ -10,17 +10,17 @@ A C++ basketball-themed tournament game where you face AI opponents in 5 matches
 
 ## Player Classes
 
-### 🏀 Shooter (Steph Curry-style)
+### 🏀 Shooter 
 - High stamina
 - Lower base accuracy
 - "In the zone" mechanic - successful shots increase future accuracy
 
-### 💪 Slasher (Giannis Antetokounmpo-style)
+### 💪 Slasher 
 - Lower stamina
 - Higher base accuracy
 - "And-one" chance - possibility for bonus points
 
-### � Specialist (Kyrie Irving-style)
+### � Specialist 
 - Highest base accuracy
 - "Ankle breaker" chance - creates highly accurate shot opportunities
 
